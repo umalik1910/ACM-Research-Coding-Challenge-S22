@@ -37,16 +37,23 @@ I first read the mushroom.csv data as a raw GitHub link using pandas.read_csv to
 
 Sources: 
 
-Reading data: https://stackoverflow.com/questions/14441729/read-a-csv-from-github-into-r
-Seaborn doc: https://seaborn.pydata.org/
+Reading data:
+https://stackoverflow.com/questions/14441729/read-a-csv-from-github-into-r
+Seaborn doc:
+https://seaborn.pydata.org/
 https://stackabuse.com/seaborn-library-for-data-visualization-in-python-part-1/
-Balanced or Unbalanced Dataset info: ​​https://stackoverflow.com/questions/65752715/must-a-dataset-for-a-classifier-be-perfectly-balanced
-Sklearn doc: https://scikit-learn.org/stable/
+Balanced or Unbalanced Dataset info:
+https://stackoverflow.com/questions/65752715/must-a-dataset-for-a-classifier-be-perfectly-balanced
+Sklearn doc:
+https://scikit-learn.org/stable/
 https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html
 https://scikit-learn.org/stable/modules/generated/sklearn.preprocessing.LabelEncoder.html
-Pandas doc: https://pandas.pydata.org/docs/
-Logistic Regression research: https://en.wikipedia.org/wiki/Logistic_regression
+Pandas doc:
+https://pandas.pydata.org/docs/
+Logistic Regression research:
+https://en.wikipedia.org/wiki/Logistic_regression
 https://www.geeksforgeeks.org/advantages-and-disadvantages-of-logistic-regression/
-Link used to understand encoding: https://www.mygreatlearning.com/blog/label-encoding-in-python/
+Link used to understand encoding:
+https://www.mygreatlearning.com/blog/label-encoding-in-python/
 
 
